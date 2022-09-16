@@ -1,0 +1,2 @@
+Day 1: Start of the project, created a Public Git Repository to keep track of all changsets. The Reppo will only contain scripts, all
+the assets data will be saved and shown locally due to storage limiations.
